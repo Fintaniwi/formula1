@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ES:Movistar Fórmula 1 HD" tvg-logo="" group-title="España",ES:Movistar Fórmula 1 HD
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/84887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR FORMULA 1 HD" tvg-logo="" group-title="España",ES:MOVISTAR FORMULA 1 HD
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/84985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="España - Movistar F1" tvg-logo="http://144.217.91.146/Logos/Spain/movistar-es-formula-1.png" group-title="Deportes Internacional",España - Movistar F1
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/83533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="España - Movistar F1 FHD" tvg-logo="http://144.217.91.146/Logos/Spain/movistar-es-formula-1.png" group-title="Deportes Internacional",España - Movistar F1 FHD
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/83534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mi amigo hormiga S01 E10" tvg-logo="http://daleplay.biz:8080/images/057bfd368fec09eb4ac3637f10eb2540.jpg" group-title="Series Drama",Mi amigo hormiga S01 E10
+http://daleplay.biz:8080/series/PabloVasquez/LCKPQp/85549.mkv
