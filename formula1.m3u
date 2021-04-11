@@ -7,5 +7,9 @@ http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/84985.m3u8
 http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/83533.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="España - Movistar F1 FHD" tvg-logo="http://144.217.91.146/Logos/Spain/movistar-es-formula-1.png" group-title="Deportes Internacional",España - Movistar F1 FHD
 http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/83534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mi amigo hormiga S01 E10" tvg-logo="http://daleplay.biz:8080/images/057bfd368fec09eb4ac3637f10eb2540.jpg" group-title="Series Drama",Mi amigo hormiga S01 E10
-http://daleplay.biz:8080/series/PabloVasquez/LCKPQp/85549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION Latino" tvg-logo="" group-title="Cine 2",FOX ACTION Latino
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/43413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION 1080" tvg-logo="" group-title="Cine 2",FOX ACTION 1080
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/43410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD - CL ©" tvg-logo="http://daleplay.biz:8080/images/73bd1480b939d6773232d77b9585884f.png" group-title="DEPORTES LATINOS  .",Fox Sports 1 HD - CL ©
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/83609.m3u8
