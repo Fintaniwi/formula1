@@ -13,3 +13,17 @@ http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/43413.m3u8
 http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/43410.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD - CL ©" tvg-logo="http://daleplay.biz:8080/images/73bd1480b939d6773232d77b9585884f.png" group-title="DEPORTES LATINOS  .",Fox Sports 1 HD - CL ©
 http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/83609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT  FHD 1080 (PRUEBA)" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Chile",TNT  FHD 1080 (PRUEBA)
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/83245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS  HD  e (DP) 60 fps" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Chile",TNT SPORTS  HD  e (DP) 60 fps
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/43401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS  HD (EXCLUSIVO)" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Chile",TNT SPORTS  HD (EXCLUSIVO)
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/59364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS  HD  (1080)" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Chile",TNT SPORTS  HD  (1080)
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/43700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 SD " tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Chile",TNT SPORTS 2 SD 
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/43703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Chile",TNT SPORTS 3
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/81505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD (1080p) (DP)" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Futbol Chile",TNT SPORTS HD (1080p) (DP)
+http://daleplay.biz:8080/live/PabloVasquez/LCKPQp/43403.m3u8
